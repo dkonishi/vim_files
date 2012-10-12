@@ -1,13 +1,7 @@
 My vim files
 =============
 
-Plugins:
-* bufexplorer
-* commentary
-* pathogen
-* rails
-* repeat
-* snipmate
-* surround
-* syntastic
-* web-indent
+Install:
+ git clone https://github.com/dkonishi/vim_files.git ~/.vim
+ cd ~/.vim
+ git submodule update --init
