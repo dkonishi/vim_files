@@ -28,3 +28,6 @@
 [submodule "path"]
 	path = path
 	url = https://github.com/kien/ctrlp.vim.git
+[submodule "bundle/vim-elixir"]
+	path = bundle/vim-elixir
+	url = https://github.com/elixir-lang/vim-elixir.git
