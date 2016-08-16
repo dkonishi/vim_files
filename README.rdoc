@@ -1,6 +1,6 @@
 == My Vim Files
 
 1.Install:
-  git clone https://github.com/dkonishi/vim_files.git ~/.vim
-  cd ~/.vim
+  git clone https://github.com/dkonishi/vim_files.git ~/projetos/vim_files
+  ln -s ~/projetos/vim_file ~/.vim
   git submodule update --init
