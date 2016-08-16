@@ -2,5 +2,5 @@
 
 1.Install:
   git clone https://github.com/dkonishi/vim_files.git ~/projetos/vim_files
-  ln -s ~/projetos/vim_file ~/.vim
+  ln -s ~/projetos/vim_file ~/.vim && cd ~/.vim
   git submodule update --init
