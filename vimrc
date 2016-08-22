@@ -273,7 +273,7 @@ endif
 " else in your ~/.vimrc file, such as:
 " nmap <silent> <Leader>q <Plug>PeepOpen
 
-silent! nmap <silent> <Leader>p :NERDTreeToggle<CR>
+silent! nmap <silent> <Leader>t :NERDTreeToggle<CR>
 
 "make <c-l> clear the highlight as well as redraw
 nnoremap <C-L> :nohls<CR><C-L>
@@ -283,7 +283,7 @@ inoremap <C-L> <C-O>:nohls<CR>
 nnoremap <leader>b :BufExplorer<cr>
 
 "map to CommandT TextMate style finder
-nnoremap <leader>t :CommandT<CR>
+" nnoremap <leader>t :CommandT<CR>
 
 "map Q to something useful
 noremap Q gq
