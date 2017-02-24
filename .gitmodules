@@ -52,3 +52,6 @@
 [submodule "bundle/vim-fireplace"]
 	path = bundle/vim-fireplace
 	url = https://github.com/tpope/vim-fireplace.git
+[submodule "bundle/Spacegray"]
+	path = bundle/Spacegray
+	url = git://github.com/ajh17/Spacegray.vim.git
